@@ -1,0 +1,31 @@
+{
+  "name": "fs-read-exactly",
+  "version": "0.0.1",
+  "description": "Read exactly n bytes of an fd or file",
+  "license": "MIT",
+  "author": "Vincent Weevers",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "fs-lotus": "~1.0.1"
+  },
+  "devDependencies": {
+    "tape": "~4.6.3"
+  },
+  "repository": "vweevers/fs-read-exactly",
+  "bugs": "https://github.com/vweevers/fs-read-exactly/issues",
+  "homepage": "https://github.com/vweevers/fs-read-exactly",
+  "keywords": [
+    "chunk",
+    "fs",
+    "read"
+  ],
+  "engines": {
+    "node": ">=4.0.0",
+    "npm": ">=2.0.0"
+  }
+}
