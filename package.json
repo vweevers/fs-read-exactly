@@ -1,6 +1,6 @@
 {
   "name": "fs-read-exactly",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Read exactly n bytes of an fd or file",
   "license": "MIT",
   "author": "Vincent Weevers",
