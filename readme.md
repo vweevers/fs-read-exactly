@@ -2,7 +2,7 @@
 
 **Read exactly n bytes of an fd or file**
 
-[![npm status](http://img.shields.io/npm/v/fs-read-exactly.svg?style=flat-square)](https://www.npmjs.org/package/fs-read-exactly) [![node](https://img.shields.io/node/v/fs-read-exactly.svg?style=flat-square)](https://www.npmjs.org/package/fs-read-exactly) [![Travis build status](https://img.shields.io/travis/vweevers/fs-read-exactly.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/fs-read-exactly) [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/fs-read-exactly.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/fs-read-exactly) [![Dependency status](https://img.shields.io/david/vweevers/fs-read-exactly.svg?style=flat-square)](https://david-dm.org/vweevers/fs-read-exactly)
+[![npm status](http://img.shields.io/npm/v/fs-read-exactly.svg?style=flat-square)](https://www.npmjs.org/package/fs-read-exactly) [![node](https://img.shields.io/node/v/fs-read-exactly.svg?style=flat-square)](https://www.npmjs.org/package/fs-read-exactly) [![Travis build status](https://img.shields.io/travis/vweevers/fs-read-exactly.svg?style=flat-square&label=travis)](http://travis-ci.org/vweevers/fs-read-exactly) [![AppVeyor build status](https://img.shields.io/appveyor/ci/vweevers/fs-read-exactly.svg?style=flat-square&label=appveyor)](https://ci.appveyor.com/project/vweevers/fs-read-exactly) [![Dependency status](https://img.shields.io/david/vweevers/fs-read-exactly.svg?style=flat-square)](https://david-dm.org/vweevers/fs-read-exactly) [![Greenkeeper badge](https://badges.greenkeeper.io/vweevers/fs-read-exactly.svg)](https://greenkeeper.io/)
 
 ## example
 
