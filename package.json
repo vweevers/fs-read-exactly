@@ -14,7 +14,7 @@
     "fs-lotus": "~1.0.1"
   },
   "devDependencies": {
-    "tape": "~4.6.3"
+    "tape": "~4.10.1"
   },
   "repository": "vweevers/fs-read-exactly",
   "bugs": "https://github.com/vweevers/fs-read-exactly/issues",
